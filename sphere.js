@@ -14,7 +14,7 @@ var tagCloud = TagCloud('.Sphere', skill, {
     radius: 230,
 
     
-    maxSpeed: 'normal',
+    maxSpeed: 'fast',
     initSpeed: 'fast',
 
    
