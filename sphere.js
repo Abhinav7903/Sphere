@@ -3,7 +3,7 @@ const container='.tagcloud';
 const skill=[
     'HTML','CSS','JAVASCRIPT',
     'PYTHON','JAVA','C','C++',
-    'REACT','GIT','GITHUB',
+    ,'GIT','GITHUB',
     'BOOTSTRAP','XML'
 ];
 
